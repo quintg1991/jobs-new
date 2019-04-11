@@ -1,0 +1,31 @@
+.header
+{
+  text-align: right;
+  background-color: #800080;
+  height: 50px;
+  color: white;
+
+}
+
+.footer
+{
+  background-color: #800080;
+  height: 50px;
+}
+
+.logout
+{
+  text-align: right;
+}
+
+.form-group
+{
+  width: 50%;
+
+}
+
+.addUser_container
+{
+  margin: 0 auto;
+  width: 80%;
+}

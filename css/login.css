@@ -1,0 +1,18 @@
+.header
+{
+  background-color: #800080;
+  height: 50px;
+
+}
+
+.footer
+{
+  background-color: #800080;
+  height: 50px;
+}
+
+.login_container
+{
+  margin: auto;
+  max-width: 300px;
+}
